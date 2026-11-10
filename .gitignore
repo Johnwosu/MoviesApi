@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+.vscode/
+.DS_Store
+
+# Local environment/secrets
+.env
+.env.*
+
+# Local secret files
+secrets.json
